@@ -1,0 +1,24 @@
+.ng-cloak{
+   display: none !important;
+}
+
+.controles-audiograma {
+    margin: 4px;
+}
+
+.controles-audiograma input {
+    width: 55px;
+    display: inline-block;
+    margin-right: 3px;
+}
+
+.controles-audiograma input::-webkit-input-placeholder { font-size: 8px; color: #a9a9a9; padding: 3px 0; }
+.controles-audiograma input::-moz-placeholder { font-size: 8px; color: #a9a9a9; padding: 3px 0; }
+.controles-audiograma input:-ms-input-placeholder { font-size: 8px; color: #a9a9a9; padding: 3px 8px; }
+.controles-audiograma input:-moz-placeholder { font-size: 8px; color: #a9a9a9; padding: 3px 0; }
+
+.controles-audiograma label {
+    display: inline-block;
+    width: 120px;
+}
+
